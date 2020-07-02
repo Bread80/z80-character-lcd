@@ -1,5 +1,5 @@
 # z80-character-lcd
-===================
+
 Hardware design/schematic to connect a generic character LCD display to a z80 processor.
 
 For full write-up see my blog post at
